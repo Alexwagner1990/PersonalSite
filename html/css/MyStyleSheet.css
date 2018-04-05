@@ -1,0 +1,47 @@
+h1,h2{
+  color: red;
+  text-align: center;
+}
+.wholePage{
+  background-image: linear-gradient(rgba(0, 0, 255, 0.3), rgba(255, 255, 0, 0.3)),
+  url(/Users/alexwagner/SD/HTML/PersonalSite/html/images/Beautiful-Lighthouse.webp);
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 0;
+  padding-left: 0;
+  margin-right: 0;
+  padding-right: 0;
+  z-index: -10;
+  background-image: linear-gradient(gba(0, 0, 255, 0.3), rgba(255, 255, 0, 0.3));
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 0;
+  padding-left: 0;
+  margin-right: 0;
+  padding-right: 0;
+  z-index: -10;
+}
+#portrait{
+  height: 100px;
+  width: 100px;
+}
+#resume{
+
+}
+#projectlist{
+
+}
+#contactme{
+
+}
+.sidenav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
